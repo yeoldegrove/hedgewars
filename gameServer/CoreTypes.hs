@@ -33,6 +33,7 @@ import Data.TConfig
 import Control.DeepSeq
 -----------------------
 import RoomsAndClients
+import Consts
 
 #if __GLASGOW_HASKELL__ < 706
 instance NFData B.ByteString
@@ -260,7 +261,7 @@ newRoom =
         False
         False
         4
-        8
+        cMaxTeams
         ""
         Nothing
         []

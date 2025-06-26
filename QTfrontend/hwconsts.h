@@ -119,6 +119,61 @@ extern int years_since_foundation;
                               0xfffe8b0e, /* orange */ \
                               0xff8f5902, /* brown  */ \
                               0xffffff01, /* yellow */ \
+                              0xff00ff00, /* lime   */ \
+                              0xff00ffff, /* cyan   */ \
+                              0xffff00ff, /* magenta */ \
+                              0xff800080, /* purple dark */ \
+                              0xff008080, /* teal dark */ \
+                              0xff808000, /* olive */ \
+                              0xff000080, /* navy */ \
+                              0xff800000, /* maroon */ \
+                              0xffc0c0c0, /* silver */ \
+                              0xff808080, /* gray */ \
+                              0xff400040, /* deep purple */ \
+                              0xff004000, /* dark green */ \
+                              0xff404000, /* dark olive */ \
+                              0xff000040, /* dark navy */ \
+                              0xff400000, /* dark maroon */ \
+                              0xffff8080, /* light red */ \
+                              0xff8080ff, /* light blue */ \
+                              0xff80ff80, /* light green */ \
+                              0xffffff80, /* light yellow */ \
+                              0xff80ffff, /* light cyan */ \
+                              0xffff80ff, /* light magenta */ \
+                              0xffffc080, /* peach */ \
+                              0xff80ffc0, /* mint */ \
+                              0xffc080ff, /* lavender */ \
+                              0xffc0ff80, /* lime light */ \
+                              0xff8080c0, /* steel blue */ \
+                              0xffc08080, /* rose */ \
+                              0xff80c080, /* sage */ \
+                              0xffc0c080, /* khaki */ \
+                              0xff8040ff, /* violet */ \
+                              0xff40ff80, /* spring green */ \
+                              0xffff4080, /* hot pink */ \
+                              0xff4080ff, /* sky blue */ \
+                              0xff80ff40, /* chartreuse */ \
+                              0xffff8040, /* coral */ \
+                              0xff606060, /* dark gray */ \
+                              0xffa0a0a0, /* light gray */ \
+                              0xff602020, /* dark red */ \
+                              0xff206020, /* dark green */ \
+                              0xff202060, /* dark blue */ \
+                              0xff606020, /* dark yellow */ \
+                              0xff602060, /* dark magenta */ \
+                              0xff206060, /* dark cyan */ \
+                              0xffe0e0e0, /* very light gray */ \
+                              0xff202020, /* very dark gray */ \
+                              0xffe00000, /* bright red */ \
+                              0xff00e000, /* bright green */ \
+                              0xff0000e0, /* bright blue */ \
+                              0xffe0e000, /* bright yellow */ \
+                              0xffe000e0, /* bright magenta */ \
+                              0xff00e0e0, /* bright cyan */ \
+                              0xff804020, /* russet */ \
+                              0xff408020, /* forest */ \
+                              0xff204080, /* ocean */ \
+                              0xff802040, /* wine */ \
                               /* add new colors here */ \
                               0 }
 

@@ -57,6 +57,61 @@
                               UINT32_C(0xfffe8b0e), /*! orange */ \
                               UINT32_C(0xff5f3605), /*! brown  */ \
                               UINT32_C(0xffffff01), /*! yellow */ \
+                              UINT32_C(0xff00ff00), /*! lime   */ \
+                              UINT32_C(0xff00ffff), /*! cyan   */ \
+                              UINT32_C(0xffff00ff), /*! magenta */ \
+                              UINT32_C(0xff800080), /*! purple dark */ \
+                              UINT32_C(0xff008080), /*! teal dark */ \
+                              UINT32_C(0xff808000), /*! olive */ \
+                              UINT32_C(0xff000080), /*! navy */ \
+                              UINT32_C(0xff800000), /*! maroon */ \
+                              UINT32_C(0xffc0c0c0), /*! silver */ \
+                              UINT32_C(0xff808080), /*! gray */ \
+                              UINT32_C(0xff400040), /*! deep purple */ \
+                              UINT32_C(0xff004000), /*! dark green */ \
+                              UINT32_C(0xff404000), /*! dark olive */ \
+                              UINT32_C(0xff000040), /*! dark navy */ \
+                              UINT32_C(0xff400000), /*! dark maroon */ \
+                              UINT32_C(0xffff8080), /*! light red */ \
+                              UINT32_C(0xff8080ff), /*! light blue */ \
+                              UINT32_C(0xff80ff80), /*! light green */ \
+                              UINT32_C(0xffffff80), /*! light yellow */ \
+                              UINT32_C(0xff80ffff), /*! light cyan */ \
+                              UINT32_C(0xffff80ff), /*! light magenta */ \
+                              UINT32_C(0xffffc080), /*! peach */ \
+                              UINT32_C(0xff80ffc0), /*! mint */ \
+                              UINT32_C(0xffc080ff), /*! lavender */ \
+                              UINT32_C(0xffc0ff80), /*! lime light */ \
+                              UINT32_C(0xff8080c0), /*! steel blue */ \
+                              UINT32_C(0xffc08080), /*! rose */ \
+                              UINT32_C(0xff80c080), /*! sage */ \
+                              UINT32_C(0xffc0c080), /*! khaki */ \
+                              UINT32_C(0xff8040ff), /*! violet */ \
+                              UINT32_C(0xff40ff80), /*! spring green */ \
+                              UINT32_C(0xffff4080), /*! hot pink */ \
+                              UINT32_C(0xff4080ff), /*! sky blue */ \
+                              UINT32_C(0xff80ff40), /*! chartreuse */ \
+                              UINT32_C(0xffff8040), /*! coral */ \
+                              UINT32_C(0xff606060), /*! dark gray */ \
+                              UINT32_C(0xffa0a0a0), /*! light gray */ \
+                              UINT32_C(0xff602020), /*! dark red */ \
+                              UINT32_C(0xff206020), /*! dark green */ \
+                              UINT32_C(0xff202060), /*! dark blue */ \
+                              UINT32_C(0xff606020), /*! dark yellow */ \
+                              UINT32_C(0xff602060), /*! dark magenta */ \
+                              UINT32_C(0xff206060), /*! dark cyan */ \
+                              UINT32_C(0xffe0e0e0), /*! very light gray */ \
+                              UINT32_C(0xff202020), /*! very dark gray */ \
+                              UINT32_C(0xffe00000), /*! bright red */ \
+                              UINT32_C(0xff00e000), /*! bright green */ \
+                              UINT32_C(0xff0000e0), /*! bright blue */ \
+                              UINT32_C(0xffe0e000), /*! bright yellow */ \
+                              UINT32_C(0xffe000e0), /*! bright magenta */ \
+                              UINT32_C(0xff00e0e0), /*! bright cyan */ \
+                              UINT32_C(0xff804020), /*! russet */ \
+                              UINT32_C(0xff408020), /*! forest */ \
+                              UINT32_C(0xff204080), /*! ocean */ \
+                              UINT32_C(0xff802040), /*! wine */ \
                               /*! add new colors here */ \
                               0 } /*! Keep this 0 at the end */
 

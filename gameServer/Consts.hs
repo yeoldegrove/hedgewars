@@ -30,7 +30,7 @@ cHogsPerTeam = 8
 
 -- Maximum teams count
 cMaxTeams :: Int
-cMaxTeams = 8
+cMaxTeams = 64
 
 -- Maximum total number of hedgehogs
 cMaxHHs :: Int
