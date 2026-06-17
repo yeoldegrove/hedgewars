@@ -413,7 +413,7 @@ handleCmd_inRoom ["MAXTEAMS", n] = do
     if not $ isMaster cl then
         return [Warning $ loc "You're not the room master!"]
     else if m < 2 || m > cMaxTeams then
-        return [Warning $ loc "/maxteams: specify number from 2 to 8"]
+        return [Warning $ loc "/maxteams: specify number from 2 to 64"]
     else
         return [ModifyRoom (\r -> r{teamsNumberLimit = m})]
 

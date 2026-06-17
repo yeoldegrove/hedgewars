@@ -166,7 +166,7 @@ pub fn handle(
                 Ok(()) => {}
                 Err(SetTeamCountError::NotMaster) => response.warn(NOT_MASTER),
                 Err(SetTeamCountError::InvalidNumber) => {
-                    response.warn("/maxteams: specify number from 2 to 8")
+                    response.warn("/maxteams: specify number from 2 to 64")
                 }
             };
         }
